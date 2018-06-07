@@ -1,0 +1,110 @@
+.container{
+    width: 1200px;
+    height: 1000px;
+    background-color: blueviolet;
+    margin: 0 auto;
+
+}
+.header{
+    width: 100%;
+    height: 200px;
+    background-color: #cdcd1c;
+}
+.logo{
+    width: 30%;
+    height: 100%;
+    background-color: brown;
+    float: left;
+
+}
+.menu{
+    width: 70%;
+    height: 100%;
+    background-color: blanchedalmond;
+    float: left;
+
+}
+.body{
+    width: 100%;
+    height: 600px;
+    background-color: #40407b;
+}
+.left_part{
+    width: 30%;
+    height: 100%;
+    background-color: #d10a0a4d;
+    float: left;
+}
+.right_part{
+    width: 70%;
+    height: 100%;
+    background-color: #2d2d28;
+    float: left;
+}
+.uper_side{
+    width: 100%;
+    height: 50%;
+    background-color: #0a0a90;
+}
+.content_one{
+    width: 100%;
+    height: 50%;
+    background-color: #4b1c79;
+}
+.content_two{
+    width: 100%;
+    height: 50%;
+    background-color: #a91d67;
+}
+.lower_side{
+    width: 100%;
+    height: 50%;
+    background-color: blue;
+
+}
+.imag_one{
+    width: 50%;
+    height: 100%;
+    background-color: #a24040;
+    float: left;
+
+}
+.image_two{
+    width: 50%;
+    height: 100%;
+    background-color: #d6a86d;
+    float: left;
+
+}
+.bottom_part{
+    width: 100%;
+    height: 200px;
+    background-color: aquamarine;
+
+}
+.links{
+    width: 100%;
+    height: 50%;
+    background-color: beige;
+
+}
+.link_one{
+    width: 50%;
+    height: 100%;
+    background-color: cadetblue;
+    float: left;
+
+}
+.link_two{
+    width: 50%;
+    height: 100%;
+    background-color: #f39628;
+    float: left;
+
+}
+.footer{
+    width: 100%;
+    height: 50%;
+    background-color: #81a75d;
+
+}
